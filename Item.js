@@ -1,7 +1,3 @@
-// static part of all the componenets 
-
-// its parent is -> paking list
-// grand parent -> app
 export default function Item({ itemObj, onDelete, onToggleItem }) {
     return (
       <li>
