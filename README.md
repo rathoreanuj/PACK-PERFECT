@@ -1,8 +1,8 @@
-# Pack-Perfect
+ # Pack-Perfect :
 
 Pack Perfect is a web application designed to help you efficiently organize and manage the items you need to pack for your trips or vacations. With this app, you can easily create a checklist of items, track which items have been packed, and see your packing progress at a glance.
 
-## Features
+# Features :
 
 1. Create Packing Lists: Add items to your packing list along with the quantities needed.
 
@@ -12,6 +12,6 @@ Pack Perfect is a web application designed to help you efficiently organize and 
 
 4. Clear List: Clear the entire list when you're done or want to start a new list.
 
-## Technologies Used
+# Technologies Used :
 
 HTML5, CSS3, JavaScript, React.js
